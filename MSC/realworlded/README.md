@@ -65,7 +65,7 @@ RealWorldEd is an innovative AI-driven platform that bridges the gap between the
 - **Framework**: FastAPI (Python 3.9+)
 - **Database**: SQLite (dev) / PostgreSQL (production)
 - **ORM**: SQLAlchemy
-- **Authentication**: JWT (JSON Web Tokens)
+- **Authentication**: JWT (JSON Web Tokens)  
 - **AI/NLP**: LangChain, OpenAI API, spaCy, NLTK
 - **Multi-Agent**: LangChain with custom agent implementations
 
